@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jbnikky13.twa",
+        "sha256_cert_fingerprints": ["FE:F1:3C:5E:64:7A:8C:E3:27:35:92:6F:85:3C:5C:F8:6B:01:63:81:4B:AF:A3:C2:21:ED:24:F9:16:B9:2D:47"]
+      }
+    }]
